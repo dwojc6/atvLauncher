@@ -1,4 +1,12 @@
-# Downloader Code - 2537846
+# Downloader Code - 3175335
+
+## 1.5 Changelog
+
+* Removed haze
+* Added inline folder title changes
+* Fixed accessibility calls
+* Added shadows under app tiles
+* Added ability to set different light and dark mode default backgrounds
 
 ## 1.2 Changelog
 
