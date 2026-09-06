@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ATVLauncher</string>
+    <string name="accessibility_service_description">Allows the launcher to open when the home button is pressed.</string>
+</resources>

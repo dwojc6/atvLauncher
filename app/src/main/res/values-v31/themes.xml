@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.ATLauncher.Launch" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/launcher_brand</item>
+        <item name="windowSplashScreenBackground">@android:color/black</item>
+        <item name="postSplashScreenTheme">@style/Theme.ATLauncher</item>
+    </style>
+</resources>

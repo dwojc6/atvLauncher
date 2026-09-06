@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.ATLauncher" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <style name="Theme.ATLauncher.Launch" parent="Theme.ATLauncher">
+        <item name="android:windowBackground">@drawable/launcher_splash_background</item>
+    </style>
+</resources>

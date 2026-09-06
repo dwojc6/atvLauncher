@@ -1,0 +1,21 @@
+ATLauncher Changelog
+
+## 1.6
+
+- Added Haze CupertinoMaterials surfaces for the dock, status bar, folders, input tiles, and long-press menus.
+- Disabled Haze noise with `noiseFactor(0f)` for a cleaner TV presentation.
+- Made TV input tiles without custom artwork solid instead of showing a nested translucent surface.
+- Reduced bitmap cache limits and capped wallpaper decoding for lower-memory TVs.
+- Added bitmap cache eviction during Android memory pressure callbacks.
+- Changed installed-app refreshes to respond to package install, removal, and update broadcasts instead of every resume.
+- Raised the minimum Android version to API 28.
+- Fixed API compatibility issues and updated the project to compile against Android API 37.
+
+## 1.5
+
+- Added inline folder title changes.
+- Fixed accessibility calls.
+- Added shadows under app tiles.
+- Added separate light and dark mode default backgrounds.
+- Added the ability to reset a custom app icon from the long-hold menu.
+- Added the ability to rename an app from the long-hold menu.
